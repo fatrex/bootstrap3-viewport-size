@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap3-viewport-size",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Ryuk87/bootstrap3-viewport-size",
+  "authors": [
+    "Daniele Lenares <daniele.lenares@gmail.com>"
+  ],
+  "description": "A JavaScrip helper to check the Bootstrap 3 viewport in JavaScript",
+  "main": "dist/bs3vs.js",
+  "keywords": [
+    "bootstrap3",
+    "helper",
+    "viewport"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
